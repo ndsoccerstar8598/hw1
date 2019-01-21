@@ -39,5 +39,5 @@ int main() {
         }
     }
 
-    cout << "choose(33,17)"<< "\t" <<  memo2[33][17] << '\n';
+    cout << "choose(34,17)"<< "\t" <<  memo2[34][17] << '\n';
 }
