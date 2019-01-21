@@ -29,7 +29,6 @@ int main() {
     //choose(52,1), choose(52,26), choose(52,26), //
     //n<500, r<n 500 x 500 = 25,000
 
-    //added stuff here to test out git
     //choose(52,10),  choose (52,15), choose (52,20)
     //choose (52,12)
     int n=0;
